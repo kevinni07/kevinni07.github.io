@@ -1,0 +1,61 @@
+.header{
+background-color: gray;
+ text-align: center;
+ padding: 30px;
+
+}
+.header h1{
+	color: red;
+	font-size: 60px;
+}
+
+.menu {
+	background-color: black;
+	overflow: hidden;
+}
+
+.menu a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+.menu a:hover{
+	color: black;
+	background-color: white;
+}
+.izquierda{
+	float: left;
+	width: 62.5%;
+	margin-top: 20px;
+}
+
+.item{
+	background-color: pink;
+	width: 100%;
+	padding: 20px;
+}
+
+.imagen{
+	width: 600px;
+}
+
+body{
+	background-color: gray;
+}
+
+.derecha{
+	float: left;
+	width: 30%; 
+	background-color: gray;
+	padding: 20px;
+}
+
+.footer{
+	padding: 10px;
+	text-align: center;
+	background-color: red;
+	margin-top: 1400px; 
+
+}
